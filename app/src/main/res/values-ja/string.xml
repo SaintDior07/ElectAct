@@ -1,5 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+
 <resources>
-    <string name="app_name">My Application</string>
     <string name="button3"> Send JP </string>
     <string name="editTextTextPersonName"> To: </string>
     <string name="editTextTextPersonName3"> Message: </string>
